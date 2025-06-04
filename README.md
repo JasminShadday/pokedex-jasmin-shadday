@@ -1,6 +1,6 @@
 # Pokédex - Consulta à PokéAPI
 
-![Pokédex](.![image](https://github.com/user-attachments/assets/15cffcef-80b8-4c33-b301-9fe92da162a0))
+![Pokédex](./interface pokedex.png)
 
 Uma Pokédex interativa que consome dados da [PokéAPI](https://pokeapi.co/) para exibir o nome, número e imagem dos Pokémon. Navegue facilmente usando os botões **Próximo** e **Anterior**, ou pesquise diretamente pelo nome ou número.
 
